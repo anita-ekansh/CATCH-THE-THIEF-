@@ -54,8 +54,8 @@ function setup() {
 
   blockAny = new Block(500,250,50,50);
 
-  ground1 = new Ground(500,375,200,10);
-  ground2 = new Ground(900,260,200,10);
+  ground1 = new Ground(500,375,290,10);
+  ground2 = new Ground(900,260,290,10);
   ground3 = new Ground(0, 500, 400, 300);
   ground4 = new Ground(500,505,2164,10);
   ground5 = new Ground(500,-2,2164,1);
